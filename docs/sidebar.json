@@ -1,10 +1,7 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "forecast_action": {
+    "Overview": "/",
+    "fcst_campaign core module": "core.html",
+    "fcst_campaign utils module": "utils.html"
   }
 }
