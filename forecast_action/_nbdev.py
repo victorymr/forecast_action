@@ -2,7 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"fetch_forecast_data_all": "00_core.ipynb",
+index = {"credentials_path": "00_core.ipynb",
+         "get_campaign_details": "00_core.ipynb",
+         "fetch_forecast_data_all": "00_core.ipynb",
          "project_id": "00_core.ipynb",
          "city_lat": "00_core.ipynb",
          "city_lon": "00_core.ipynb",
